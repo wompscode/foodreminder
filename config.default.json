@@ -1,0 +1,9 @@
+﻿{
+  "webhookId": "",
+  "webhookToken": "",
+  "testId": "",
+  "testToken": "",
+  "isTesting": true,
+  "reminderMessage": "eat food it's {{time}}",
+  "triggerHours": [9, 12, 18]
+}

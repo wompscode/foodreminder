@@ -1,0 +1,15 @@
+{
+  "name": "foodreminder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wompscode",
+  "license": "ISC",
+  "description": "Created to remind a friend to eat.",
+  "dependencies": {
+    "discord.js": "^14.17.2"
+  }
+}
